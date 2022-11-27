@@ -1,2 +1,2 @@
 def test_exam():
-    assert 3 > 1
+    assert 2 > 1
